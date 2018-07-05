@@ -1,0 +1,5 @@
+export const DISPLAY_LOADER = 'DISPLAY_LOADER'
+export const HIDE_LOADER = 'HIDE_LOADER'
+export const SET_STATIONS = 'SET_STATIONS'
+export const SET_FILTERS = 'SET_FILTERS'
+export const FOCUSED_STATION = 'FOCUSED_STATION'
